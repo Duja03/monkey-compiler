@@ -2,7 +2,6 @@ package lexer
 
 import (
 	"testing"
-
 	"monkey-interpreter/token"
 )
 
@@ -28,7 +27,6 @@ if (5 < 10) {
 10 != 9;
 "foobar"
 "foo bar"
-
 [1, 2];
 {"foo": "bar"}
 `
