@@ -1,7 +1,8 @@
 # Monkey Interpreter in Go
 
 This is my implementation of the **Monkey** programming language interpreter, written in Go.  
-The project is based on the book [**"Writing An Interpreter In Go"**](https://interpreterbook.com) by Thorsten Ball.
+The project is based on the books [**"Writing An Interpreter In Go"**](https://interpreterbook.com) and [**"Writing A Compiler In Go"**](https://compilerbook.com
+) by Thorsten Ball.
 
 It was built entirely from scratch, covering everything from lexical analysis to evaluation.  
 The goal was to understand how interpreters work at a fundamental level.
